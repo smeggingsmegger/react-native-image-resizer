@@ -4,9 +4,10 @@
   "description": "Rescale local images with React Native",
   "main": "./index.js",
   "types": "./index.d.ts",
+  "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bamlab/react-native-image-resizer.git"
+    "url": "git+https://github.com/smeggingsmegger/react-native-image-resizer.git"
   },
   "keywords": [
     "react-native",
