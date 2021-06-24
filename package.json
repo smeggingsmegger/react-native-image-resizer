@@ -1,8 +1,8 @@
 {
   "name": "react-native-image-resizer",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "Rescale local images with React Native",
-  "main": "./index.mjs",
+  "main": "./index.js",
   "types": "./index.d.ts",
   "type": "module",
   "repository": {
